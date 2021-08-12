@@ -14,5 +14,11 @@
   "homepage": "https://github.com/abir-taheer/react-google-identity#readme",
   "devDependencies": {
     "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "prettier": {
+    "printWidth": 80
   }
 }
