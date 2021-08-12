@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/abir-taheer/react-google-identity/issues"
   },
-  "homepage": "https://github.com/abir-taheer/react-google-identity#readme"
+  "homepage": "https://github.com/abir-taheer/react-google-identity#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
 }
