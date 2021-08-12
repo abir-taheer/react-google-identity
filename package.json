@@ -1,0 +1,15 @@
+{
+  "name": "react-google-identity",
+  "version": "1.0.0",
+  "description": "An implementation of Google Sign In for ReactJS that supports the One Tap Sign In protocol",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abir-taheer/react-google-identity.git"
+  },
+  "author": "Abir Taheer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abir-taheer/react-google-identity/issues"
+  },
+  "homepage": "https://github.com/abir-taheer/react-google-identity#readme"
+}
